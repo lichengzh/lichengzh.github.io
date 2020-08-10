@@ -4,7 +4,7 @@ permalink: /publications/
 ---
 <br>
 <b>[MOPO: Model-based Offline Policy Optimization](http://lichengzh.github.io/files/ov.pdf)</b> <br> 
-Abstract:
+Abstract: the effect of
 
 <b>[Training Deep Energy-Based Models with f-Divergence Minimization](http://lantaoyu.com/publications/fEBM)</b> <br> 
 <b>Lantao Yu</b>, Yang Song, Jiaming Song, Stefano Ermon.
