@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Licheng Zhang"
+title: "CV"
 permalink: /cv/
 redirect_from:
   - /resume
