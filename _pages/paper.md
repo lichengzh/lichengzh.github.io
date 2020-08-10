@@ -3,7 +3,7 @@ layout: archive
 title: "Working Papers"
 permalink: /paper/
 ---
-* **[Monetay Policy (http://lichengzh.github.io/files/ov.pdf)]
+* **[[Monetay Policy] (http://lichengzh.github.io/files/ov.pdf)]
 * **Best Paper Award Honorable Mention of SIGIR 2017 ([Link](http://sigir.org/sigir2017/program/awards/))**. August 9, Tokyo, Japan. 2017.
 * **Microsoft Azure Research Award**, Carnegie Mellon University. 2017.
 * **Scholarship of Excellent Undergraduates** (Top 2 students in school of Electronic Information and Electrical Engineering), Shanghai Jiao Tong University. 2016-2017
