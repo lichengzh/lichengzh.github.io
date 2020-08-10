@@ -1,7 +1,6 @@
 ---
 title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)"
 permalink: /publications/
-author_profile: true
 ---
 <br>
 <b>[MOPO: Model-based Offline Policy Optimization](http://lantaoyu.com/publications/MOPO)</b> <br> 
@@ -72,4 +71,4 @@ Xuejian Wang\*, <b>Lantao Yu</b>\*, Kan Ren, Guanyu Tao, Weinan Zhang, Yong Yu, 
 
 
 
-[\* denotes equal contribution]
+
