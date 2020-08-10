@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Licheng"
+title                    : "Licheng Zhang"
 title_separator          : "-"
-name                     : &name "Licheng"
-description              : &description "Ph.D. student,  University"
+name                     : &name "Licheng Zhang"
+description              : &description "Ph.D. Candidate in Economics,  The University of Texas at Dallas"
 url                      : https://lichengzh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lichengzh/lichengzh.github.io"
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Licheng"
+  name             : "Licheng Zhang"
   #avatar           : 
   bio              : "Ph.D. student,  University"
   location         : "nyc, ny"
-  employer         : 
+  employer         : UTD
   googlescholar    : 
   email            : "new@cs.stanford.edu"
   uri              : 
