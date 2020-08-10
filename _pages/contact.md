@@ -2,7 +2,6 @@
 layout: archive
 title: "Contact"
 permalink: /contact/
-author_profile: false
 ---
 Computer Science Department, Stanford University<br>
 Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
