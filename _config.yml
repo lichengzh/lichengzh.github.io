@@ -35,7 +35,7 @@ staticman:
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
+  requiredFields         : ['name', 'email']
   transforms:
     email                : "md5"
   generatedFields:
@@ -76,39 +76,7 @@ analytics:
 
 
 # Site Author
-author:
-  #name             : "Licheng Zhang"
-  #avatar           : 
-  #bio              : "Ph.D. Candidate in Economics,  The University of Texas at Dallas"
-  #location         : "nyc, ny"
-  #employer         : UTD
-  #googlescholar    : 
-  #email            : "new@cs.stanford.edu"
-  uri              : 
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         : 
-  foursquare       :
-  github           : 
-  google_plus      :
-  keybase          :
-  instagram        : 
-  lastfm           :
-  linkedin         :
-  orcid            : 
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : 
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        : 
+
 
 
 # Reading Files
@@ -201,7 +169,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      #author_profile: true
   # _teaching
   - scope:
       path: ""
@@ -303,4 +271,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
