@@ -3,7 +3,7 @@ layout: archive
 title: "Contact"
 permalink: /contact/
 ---
-Computer Science Department,  University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] cs.stanford.edu
+Economics Department,  University<br>
+Camp 158, 353 Serra Mall, SDa 94305<br>
+Email: lz [at] da.edu
 
