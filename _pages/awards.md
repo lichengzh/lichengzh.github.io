@@ -2,7 +2,6 @@
 layout: archive
 title: "Awards & Honors"
 permalink: /awards/
-author_profile: true
 ---
 * **IEEE Special Scholarship** (Top 2 students in School of Electronic Information and Electrical Engineering), Shanghai Jiao Tong University. 2017
 * **Best Paper Award Honorable Mention of SIGIR 2017 ([Link](http://sigir.org/sigir2017/program/awards/))**. August 9, Tokyo, Japan. 2017.
