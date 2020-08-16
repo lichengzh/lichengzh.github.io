@@ -1,8 +1,9 @@
 ---
 layout: archive
-title: "Instructor"
+title: ""
 permalink: /teaching/
 ---
+# Instructor
 * ECON 3330 Economics of Health, The University of Texas at Dallas. (Fall 2020) 
 
 # Teaching Assistant
