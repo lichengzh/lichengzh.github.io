@@ -1,16 +1,13 @@
 # main links links
 main:
- # - title: "CV/Bio"
-   # url: /files/lantaoyu_cv.pdf
+  - title: "CV"
+    url: /files/ov.pdf
 
   - title: "Research"
     url: /publications/
 
   #- title: "Working Papers"
    # url: /paper/
-
-  # - title: "Talks"
-  #   url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -21,8 +18,8 @@ main:
   # - title: "Blogs"
   #   url: /year-archive/
     
-  - title: "Contact"
-    url: /contact/  
+  #- title: "Contact"
+    #url: /contact/  
     
   # - title: "Guide"
     # url: /markdown/
