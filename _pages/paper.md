@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Working Papers"
-permalink: /paper/
+title: "CV"
+permalink: /CV/
 ---
 {% include base_path %}
 
