@@ -13,6 +13,6 @@ redirect_from:
 </p>
 
 # About Me
-* I am a Ph.D. student in   at . [[Curriculum Vitae](http://lichengzh.github.io/files/ov.pdf)] 
+* I am a Ph.D. student in   at .
 * My research interests lie in 
 
