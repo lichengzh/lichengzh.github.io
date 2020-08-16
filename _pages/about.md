@@ -13,6 +13,6 @@ redirect_from:
 </p>
 
 # About Me
-* I am a Ph.D. student in Economics at .
+* I am a Ph.D. candidate in Economics at The University of Texas at Dallas.
 * My research focuses on Macroeconomics and Monetary Economics, Financial Economics.
 
