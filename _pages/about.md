@@ -14,5 +14,5 @@ redirect_from:
 
 # About Me
 * I am a Ph.D. student in Economics at .
-* My research focuses on **Macroeconomics and Monetary Economics, Financial Economics**.
+* My research focuses on Macroeconomics and Monetary Economics, Financial Economics.
 
