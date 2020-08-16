@@ -13,6 +13,6 @@ redirect_from:
 </p>
 
 # About Me
-* I am a Ph.D. student in   at .
-* My research interests lie in 
+* I am a Ph.D. student in Economics at .
+* My research focuses on **Macroeconomics and Monetary Economics, Financial Economics**.
 
