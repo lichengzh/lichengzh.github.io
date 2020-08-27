@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Licheng Zhang"
+title                    : "Licg Zhang"
 title_separator          : "-"
-name                     : &name "Licheng Zhang"
+name                     : &name "Licg Zhang"
 description              : &description "Ph.D. Candidate in Economics,  The University of Texas at Dallas"
 url                      : https://lichengzh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
