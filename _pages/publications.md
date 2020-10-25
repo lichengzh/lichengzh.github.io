@@ -3,7 +3,7 @@ title: ""
 permalink: /publications/
 ---
 # Working Papers
-<b>[Low Interest Rates and Asset Allocation: Evidence from Mutual Fund Flows](http://lichengzh.github.io/files/low.pdf)</b> (JMP)<br> 
+<b>[Low Interest Rates and Asset Allocation: Evidence from Mutual Fund Flows](http://lichengzh.github.io/files/low.pdf)</b> (Job Market Paper)<br> 
 Abstract: This paper studies the effect of monetary policy on investors' asset allocation decisions by using data on aggregated and disaggregated mutual fund flows. First, we find that following an expansionary monetary policy, both equity funds and bond funds receive large inflows.
 Specific to asset classes, investors move money from large-cap assets to mid-cap and small-cap assets in the near term and then shift assets from domestic to developed and emerging markets. This suggests that equity investors become more risk-taking when the interest rate is low. In contrast, bond investors become more risk-averse and move money into highly safe investment-grade funds. Moreover, we offer empirical evidence that the Fed's long-lasting zero lower bound policy has a much greater impact on bond investors than equity investors, although it leads to even more risk-taking for both investors. <br>
 
