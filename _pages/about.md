@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://lichengzh.github.io/files/me.png?raw=true" alt="Photo" style="width:250px;height:350px;"/> 
+  <img src="https://lichengzh.github.io/files/me.png?raw=true" alt="Photo" style="width:450px;height:300px;"/> 
 </p>
 
 # About Me
