@@ -11,7 +11,8 @@ Specific to asset classes, investors move money from large-cap assets to mid-cap
 Abstract: In this paper, we empirically explore the interrelationship between monetary policy, financial conditions, and GDP growth based on cross-country panel data. Specifically, we estimate impulse responses of financial conditions to monetary policy, GDP growth distribution to financial conditions, and GDP growth to short-term interest rates through the smooth local projections. We apply the penalized quantile regression with fixed effects method to estimate the GDP growth distribution. Our results suggest that the financial conditions play a central role in the monetary policy transmission and offer a reliable signal to the entire GDP growth distribution, especially on the tail outcomes. However, not all financial variables show these effects.
 In addition, we find that the short-term interest rate has a strong effect on the average GDP growth, but its effect on the entire GDP growth distribution is very limited. <br>
 
-<b>Jobless Reoveries and Time Variation in Labor Markets </b> with Irina B. Panovska<br> 
+<b>Jobless Reoveries and Time Variation in Labor Markets </b> with  [Irina B. Panovska](https://irinapanovska.com)
+<br> 
 
 
 
