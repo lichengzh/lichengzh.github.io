@@ -15,5 +15,5 @@ redirect_from:
 # About Me
 * I am a Ph.D. candidate in Economics at The University of Texas at Dallas.
 * My research focuses on Macro-Finance, Monetary Policy, Financial Economics.
-* Email: [lieng.zhang@utdallas.edu](mailto:lieng.zhang@utdallas.edu) 
+* Email: [licheng.zhang@utdallas.edu](mailto:licheng.zhang@utdallas.edu) 
 
