@@ -10,7 +10,7 @@ Specific to asset classes, investors move money from large-cap assets to mid-cap
 <b>[Monetary Policy, Financial Conditions and GDP at Risk](http://lichengzh.github.io/files/fci.pdf)</b> <br> 
 Abstract: We empirically explore the interrelationship between monetary policy, financial conditions, and GDP growth based on cross-country panel data. Specifically, we apply the penalized quantile regression with fixed effects method to estimate the GDP growth distribution, and estimate impulse responses of financial conditions to monetary policy, GDP growth distribution to financial conditions, and short-term interest rates through the smooth local projections. Our results suggest that the financial conditions play an important role in monetary policy transmission and offer a strong signal on the tail outcomes of GDP growth. However, when considering specific financial conditions variables: credit to households, debt securities, effective exchange rate, and open-end fund total asset, only credit to households show a consistently positive effect on near-term GDP at risk. In addition, we find that the short-term interest rate has a strong effect on the average GDP growth, but its effect on the quantiles of GDP growth is much smaller. <br>
 
-<b>Jobless Reoveries and Time Variation in Labor Markets </b> with  [Irina B. Panovska](https://irinapanovska.com)
+<b>Jobless Recoveries and Time Variation in Labor Markets </b> with  [Irina B. Panovska](https://irinapanovska.com)
 <br> 
 
 
