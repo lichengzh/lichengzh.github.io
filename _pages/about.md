@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="https://lichengzh.github.io/files/IMG_0352.JPG?raw=true" alt="Photo" style="width: 1px;"/> 
-</p>
+#<p align="center">
+#  <img src="https://lichengzh.github.io/files/IMG_0352.JPG?raw=true" alt="Photo" style="width: 1px;"/> 
+#</p>
 
 # About Me
 * I am a Ph.D. candidate in Economics at The University of Texas at Dallas.
