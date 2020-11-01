@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+## R Markdown
+<div style= "float:left;position: relative; top: -80px;">
+  <img src="https://lichengzh.github.io/files/IMG_3759.JPG?raw=true" alt="Photo" style="width: 350px;"/> 
+</div>
+
 
 # About Me
 * I am a Ph.D. candidate in Economics at The University of Texas at Dallas. I am on the job market and expect to graduate in July 2021. 
