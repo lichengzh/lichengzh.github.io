@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Solarized dark             |  Solarized Ocean
+            |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![](https://...Dark.png)  |  ![](https://...Ocean.png)
 
