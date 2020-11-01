@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-            |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
 
 # About Me
 * I am a Ph.D. candidate in Economics at The University of Texas at Dallas. I am on the job market and expect to graduate in July 2021. 
