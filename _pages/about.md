@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style= "float:right;position: relative; top: -120px;">
+<div style= "float:right;position: relative; top: -600px;">
   <img src="https://lichengzh.github.io/files/IMG_3759.JPG?raw=true" alt="Photo" style="width: 350px;"/> 
 </div>
 
