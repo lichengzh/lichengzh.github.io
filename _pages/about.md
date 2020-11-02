@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-   <img src="https://lichengzh.github.io/files/p1.png?raw=true" alt="Photo" style="width: 340px;"/> 
-</p>
+
 
 
 # About Me
