@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-   <img src="https://lichengzh.github.io/files/IMG_377.JPG?raw=true" alt="Photo" style="width: 0.1px;"/> 
+   <img src="https://lichengzh.github.io/files/IMG_3775.JPG?raw=true" alt="Photo" style="width: 300px;"/> 
 </p>
 
 
