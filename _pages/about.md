@@ -15,6 +15,6 @@ redirect_from:
 
 # About Me
 * I am a Ph.D. candidate in Economics at The University of Texas at Dallas. I am on the job market and expect to graduate in July 2021. 
-* My research focuses on Macro-Finance, Monetary Policy, Financial Economics.
+* My research focuses on Macro-Finance, Monetary Policy, Financial Economics, Applied Econometrics.
 * Email: [licheng.zhang@utdallas.edu](mailto:licheng.zhang@utdallas.edu) 
 
