@@ -1,16 +1,16 @@
 # main links links
 main:
-  #- title: "CV"
-   # url: /files/Licheng_cv.pdf
+  - title: "CV"
+    url: /files/Licheng_cv.pdf
 
- # - title: "Research"
-  #  url: /publications/
+  - title: "Research"
+    url: /publications/
 
   #- title: "Working Papers"
    # url: /paper/
 
-  #- title: "Teaching"
-   # url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
